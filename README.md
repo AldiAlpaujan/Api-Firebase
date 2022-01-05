@@ -1,6 +1,6 @@
 # api_firebase
 
-A new Flutter project.
+Project Flutter menggunakan firebase untuk menyimpan data
 
 ## Getting Started
 
